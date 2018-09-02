@@ -11,6 +11,8 @@
 
 	.password{
 		text-align: center;
+		font-weight: bold;
+		color: black;
 	}
 	
 /* .overlay {
